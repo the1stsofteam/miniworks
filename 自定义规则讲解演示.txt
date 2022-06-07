@@ -1,67 +1,67 @@
 //https://github.com/YuanHsing/OneClickRun/blob/master/MaooXB/%F0%9F%A5%92%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8E%A5%E5%8F%A3%E6%A8%A1%E6%9D%BF.txt
 {
-  "name": "×Ô¶¨Òå¹æÔò½²½âÑİÊ¾",
-  "url": "https://xxx.com", //ÌîÍøÕ¾Á´½Ó
-  "tihuan": "cnzz.com", //Õâ¸ö²»ÓÃ¶¯£¬ÊÇ¸ö±ğÍøÕ¾ĞáÌ½Ê±¹ıÂËµØÖ·ÓÃµÄ
-  "User": "¿Õ", //Õâ¸ö²»ÓÃ¶¯£¬ÊÇ¸ö±ğÍøÕ¾²¥·ÅĞèÒªÇëÇóÍ·Ê±²ÅÓÃµ½
+  "name": "è‡ªå®šä¹‰è§„åˆ™è®²è§£æ¼”ç¤º",
+  "url": "https://xxx.com", //å¡«ç½‘ç«™é“¾æ¥
+  "tihuan": "cnzz.com", //è¿™ä¸ªä¸ç”¨åŠ¨ï¼Œæ˜¯ä¸ªåˆ«ç½‘ç«™å—…æ¢æ—¶è¿‡æ»¤åœ°å€ç”¨çš„
+  "User": "ç©º", //è¿™ä¸ªä¸ç”¨åŠ¨ï¼Œæ˜¯ä¸ªåˆ«ç½‘ç«™æ’­æ”¾éœ€è¦è¯·æ±‚å¤´æ—¶æ‰ç”¨åˆ°
 
-  "fenlei": "µçÓ°$/index.php/vod/show/id/1/page/#µçÊÓ¾ç$/index.php/vod/show/id/2/page/#×ÛÒÕ$/index.php/vod/show/id/3/page/#¶¯Âş$/index.php/vod/show/id/4/page/#¼ÇÂ¼$/index.php/vod/show/id/5/page/#¹ú²ú¾ç$/index.php/vod/show/id/201/page/#¸ÛÌ¨¾ç$/index.php/vod/show/id/202/page/#ÈÕº«¾ç$/index.php/vod/show/id/203/page/#Å·ÃÀ¾ç$/index.php/vod/show/id/204/page/#º£Íâ¾ç$/index.php/vod/show/id/205/page/", //ÍøÕ¾ÁĞ±íµÄ·ÖÀà
-  "houzhui": ".html", //ÍøÕ¾·­Ò³Á´½ÓµÄºó×º
+  "fenlei": "ç”µå½±$/index.php/vod/show/id/1/page/#ç”µè§†å‰§$/index.php/vod/show/id/2/page/#ç»¼è‰º$/index.php/vod/show/id/3/page/#åŠ¨æ¼«$/index.php/vod/show/id/4/page/#è®°å½•$/index.php/vod/show/id/5/page/#å›½äº§å‰§$/index.php/vod/show/id/201/page/#æ¸¯å°å‰§$/index.php/vod/show/id/202/page/#æ—¥éŸ©å‰§$/index.php/vod/show/id/203/page/#æ¬§ç¾å‰§$/index.php/vod/show/id/204/page/#æµ·å¤–å‰§$/index.php/vod/show/id/205/page/", //ç½‘ç«™åˆ—è¡¨çš„åˆ†ç±»
+  "houzhui": ".html", //ç½‘ç«™ç¿»é¡µé“¾æ¥çš„åç¼€
 
-  "shifouercijiequ": "0", //½ØÈ¡µÄÁĞ±íÊı×éÊÇ·ñĞèÒª¶ş´Î½ØÈ¡£¬0²»ĞèÒª£¬1ĞèÒª
-  "jiequqian": "¿Õ", //²»ĞèÒª¶ş´Î½ØÈ¡¾ÍÌî¿Õ
-  "jiequhou": "¿Õ", //²»ĞèÒª¶ş´Î½ØÈ¡¾ÍÌî¿Õ
-  "jiequshuzuqian": "class=\"pic\"", //½ØÈ¡µÄÁĞ±íÊı×éµÄÇ°¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
-  "jiequshuzuhou": "</li>", //½ØÈ¡µÄÁĞ±íÊı×éµÄºó¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
-  "tupianqian": "lay-src=\"", //ÁĞ±íÖĞ×ÊÔ´µÄÍ¼Æ¬Ç°¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
-  "tupianhou": "\"", //ÁĞ±íÖĞ×ÊÔ´µÄÍ¼Æ¬ºó¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
-  "biaotiqian": "class=\"name\">", //ÁĞ±íÖĞ×ÊÔ´µÄ±êÌâÇ°¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
-  "biaotihou": "</div>", //ÁĞ±íÖĞ×ÊÔ´µÄ±êÌâºó¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
-  "lianjieqian": "href=\"", //ÁĞ±íÖĞ×ÊÔ´µÄÏêÇéÒ³Ìø×ªÁ´½ÓÇ°¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
-  "lianjiehou": "\"", //ÁĞ±íÖĞ×ÊÔ´µÄÏêÇéÒ³Ìø×ªÁ´½Óºó¹Ø¼ü´Ê,½ØÈ¡µÄ¹Ø¼ü´ÊÓĞ " µÄÓÃ \ ½øĞĞ×ªÒå
+  "shifouercijiequ": "0", //æˆªå–çš„åˆ—è¡¨æ•°ç»„æ˜¯å¦éœ€è¦äºŒæ¬¡æˆªå–ï¼Œ0ä¸éœ€è¦ï¼Œ1éœ€è¦
+  "jiequqian": "ç©º", //ä¸éœ€è¦äºŒæ¬¡æˆªå–å°±å¡«ç©º
+  "jiequhou": "ç©º", //ä¸éœ€è¦äºŒæ¬¡æˆªå–å°±å¡«ç©º
+  "jiequshuzuqian": "class=\"pic\"", //æˆªå–çš„åˆ—è¡¨æ•°ç»„çš„å‰å…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
+  "jiequshuzuhou": "</li>", //æˆªå–çš„åˆ—è¡¨æ•°ç»„çš„åå…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
+  "tupianqian": "lay-src=\"", //åˆ—è¡¨ä¸­èµ„æºçš„å›¾ç‰‡å‰å…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
+  "tupianhou": "\"", //åˆ—è¡¨ä¸­èµ„æºçš„å›¾ç‰‡åå…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
+  "biaotiqian": "class=\"name\">", //åˆ—è¡¨ä¸­èµ„æºçš„æ ‡é¢˜å‰å…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
+  "biaotihou": "</div>", //åˆ—è¡¨ä¸­èµ„æºçš„æ ‡é¢˜åå…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
+  "lianjieqian": "href=\"", //åˆ—è¡¨ä¸­èµ„æºçš„è¯¦æƒ…é¡µè·³è½¬é“¾æ¥å‰å…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
+  "lianjiehou": "\"", //åˆ—è¡¨ä¸­èµ„æºçš„è¯¦æƒ…é¡µè·³è½¬é“¾æ¥åå…³é”®è¯,æˆªå–çš„å…³é”®è¯æœ‰ " çš„ç”¨ \ è¿›è¡Œè½¬ä¹‰
 
-  //ËÑË÷²¿·Ö»ù±¾²»ÓÃ¶¯£¬ÏÖÔÚÍøÕ¾»ù±¾¶¼ÊÇÆ»¹ûCMS£¬ËùÓĞËÑË÷ÊÇ¹Ì¶¨µÄ¡£
+  //æœç´¢éƒ¨åˆ†åŸºæœ¬ä¸ç”¨åŠ¨ï¼Œç°åœ¨ç½‘ç«™åŸºæœ¬éƒ½æ˜¯è‹¹æœCMSï¼Œæ‰€æœ‰æœç´¢æ˜¯å›ºå®šçš„ã€‚
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
-  "sousuohouzhui": "/index.php/vod/detail/id/", //ËÑË÷Ò³Ó°Æ¬Ìø×ªÏêÇéÒ³µÄÖĞ¼ä±êÊ¶Á´½Ó²¿·Ö
+  "sousuohouzhui": "/index.php/vod/detail/id/", //æœç´¢é¡µå½±ç‰‡è·³è½¬è¯¦æƒ…é¡µçš„ä¸­é—´æ ‡è¯†é“¾æ¥éƒ¨åˆ†
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
   "jsname": "name",
   "jsid": "id",
-  "ssjiequqian": "¿Õ",
-  "ssjiequhou": "¿Õ",
-  "ssjiequshuzuqian": "¿Õ",
-  "ssjiequshuzuhou": "¿Õ",
-  "sstupianqian": "¿Õ",
-  "sstupianhou": "¿Õ",
-  "ssbiaotiqian": "¿Õ",
-  "ssbiaotihou": "¿Õ",
-  "sslianjieqian": "¿Õ",
-  "sslianjiehou": "¿Õ",
+  "ssjiequqian": "ç©º",
+  "ssjiequhou": "ç©º",
+  "ssjiequshuzuqian": "ç©º",
+  "ssjiequshuzuhou": "ç©º",
+  "sstupianqian": "ç©º",
+  "sstupianhou": "ç©º",
+  "ssbiaotiqian": "ç©º",
+  "ssbiaotihou": "ç©º",
+  "sslianjieqian": "ç©º",
+  "sslianjiehou": "ç©º",
 
   "bfshifouercijiequ": "0",
-  "bfjiequqian": "¿Õ",
-  "bfjiequhou": "¿Õ",
-  "bfjiequshuzuqian": "id=\"zu", //²¥·Å½ØÈ¡µÄÁĞ±íÊı×éµÄÇ°¹Ø¼ü´Ê
-  "bfjiequshuzuhou": "</ul>", //²¥·Å½ØÈ¡µÄÁĞ±íÊı×éµÄºó¹Ø¼ü´Ê
+  "bfjiequqian": "ç©º",
+  "bfjiequhou": "ç©º",
+  "bfjiequshuzuqian": "id=\"zu", //æ’­æ”¾æˆªå–çš„åˆ—è¡¨æ•°ç»„çš„å‰å…³é”®è¯
+  "bfjiequshuzuhou": "</ul>", //æ’­æ”¾æˆªå–çš„åˆ—è¡¨æ•°ç»„çš„åå…³é”®è¯
 
-  "zhuangtaiqian": "¸üĞÂ£º</span>", //×´Ì¬Ç°¹Ø¼ü´Ê
-  "zhuangtaihou": "</p>", //×´Ì¬ºó¹Ø¼ü´Ê
-  "daoyanqian": "µ¼Ñİ£º</span>", //µ¼ÑİÇ°¹Ø¼ü´Ê
-  "daoyanhou": "</p>", //µ¼ÑİÌ¬ºó¹Ø¼ü´Ê
-  "zhuyanqian": "Ö÷Ñİ£º</span>", //Ö÷ÑİÇ°¹Ø¼ü´Ê
-  "zhuyanhou": "</p>", //Ö÷Ñİºó¹Ø¼ü´Ê
-  "juqingqian": "¼ò½é£º</span>", //¾çÇéÇ°¹Ø¼ü´Ê
-  "juqinghou": "</div>", //¾çÇéºó¹Ø¼ü´Ê
+  "zhuangtaiqian": "æ›´æ–°ï¼š</span>", //çŠ¶æ€å‰å…³é”®è¯
+  "zhuangtaihou": "</p>", //çŠ¶æ€åå…³é”®è¯
+  "daoyanqian": "å¯¼æ¼”ï¼š</span>", //å¯¼æ¼”å‰å…³é”®è¯
+  "daoyanhou": "</p>", //å¯¼æ¼”æ€åå…³é”®è¯
+  "zhuyanqian": "ä¸»æ¼”ï¼š</span>", //ä¸»æ¼”å‰å…³é”®è¯
+  "zhuyanhou": "</p>", //ä¸»æ¼”åå…³é”®è¯
+  "juqingqian": "ç®€ä»‹ï¼š</span>", //å‰§æƒ…å‰å…³é”®è¯
+  "juqinghou": "</div>", //å‰§æƒ…åå…³é”®è¯
 
-  "bfyshifouercijiequ": "0", //½ØÈ¡µÄ²¥·ÅÁĞ±íÊı×éÊÇ·ñĞèÒª¶ş´Î½ØÈ¡£¬0²»ĞèÒª£¬1ĞèÒª
-  "bfyjiequqian": "¿Õ", //²»ĞèÒª¶ş´Î½ØÈ¡¾ÍÌî¿Õ
-  "bfyjiequhou": "¿Õ", //²»ĞèÒª¶ş´Î½ØÈ¡¾ÍÌî¿Õ
-  "bfyjiequshuzuqian": "<a", //²¥·Å¾ç¼¯Êı×éÇ°¹Ø¼ü´Ê
-  "bfyjiequshuzuhou": "/a>", //²¥·Å¾ç¼¯Êı×éºó¹Ø¼ü´Ê
-  "bfbiaotiqian": ">", //²¥·Å¾ç¼¯±êÌâÇ°¹Ø¼ü´Ê
-  "bfbiaotihou": "<", //×´²¥·Å¾ç¼¯±êÌâºó¹Ø¼ü´Ê
-  "bflianjieqian": "href=\"", //²¥·Å¾ç¼¯Á´½ÓÇ°¹Ø¼ü´Ê
+  "bfyshifouercijiequ": "0", //æˆªå–çš„æ’­æ”¾åˆ—è¡¨æ•°ç»„æ˜¯å¦éœ€è¦äºŒæ¬¡æˆªå–ï¼Œ0ä¸éœ€è¦ï¼Œ1éœ€è¦
+  "bfyjiequqian": "ç©º", //ä¸éœ€è¦äºŒæ¬¡æˆªå–å°±å¡«ç©º
+  "bfyjiequhou": "ç©º", //ä¸éœ€è¦äºŒæ¬¡æˆªå–å°±å¡«ç©º
+  "bfyjiequshuzuqian": "<a", //æ’­æ”¾å‰§é›†æ•°ç»„å‰å…³é”®è¯
+  "bfyjiequshuzuhou": "/a>", //æ’­æ”¾å‰§é›†æ•°ç»„åå…³é”®è¯
+  "bfbiaotiqian": ">", //æ’­æ”¾å‰§é›†æ ‡é¢˜å‰å…³é”®è¯
+  "bfbiaotihou": "<", //çŠ¶æ’­æ”¾å‰§é›†æ ‡é¢˜åå…³é”®è¯
+  "bflianjieqian": "href=\"", //æ’­æ”¾å‰§é›†é“¾æ¥å‰å…³é”®è¯
   "bflianjiehou": "\""
-} //²¥·Å¾ç¼¯Á´½Óºó¹Ø¼ü´Ê
+} //æ’­æ”¾å‰§é›†é“¾æ¥åå…³é”®è¯
