@@ -2,6 +2,7 @@
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "莫扎兔",
   "主页url": "https://www.mozhatu.com",
+  "热门": "电视剧$20",
   "嗅探词": ".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive",
   
   "分类": "电影&电视剧&综艺&动漫&记录",
@@ -9,7 +10,7 @@
   
   "分类url": "https://www.mozhatu.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
   
-  "二次截取": "<div class=\"module-adslist&&<div id=\"page\">",
+  "二次截取": "<div class=\"module-items&&<div id=\"page\">",
   "副标题": "module-item-note\">&&</div>",
   
   "搜索模式": "0",
