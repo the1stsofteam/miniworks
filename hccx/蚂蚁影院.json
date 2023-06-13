@@ -54,6 +54,8 @@
     
     "分类url":"https://mayitube.com/c/{cateId}?country={area}&page={catePg}&sort={by}&year={year}",
     
+    "跳转播放链接": "https://mayitube.com+Base64(var video = {};*('&&')",
+    
     "地区":"大陆&欧美&日本&美国&香港&韩国&英国&台湾&泰国&新加坡",
     
     "年份":"1983-2023",
