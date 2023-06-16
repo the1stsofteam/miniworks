@@ -22,21 +22,15 @@
     
     "链接":"href=\"&&\"",
     
-    "搜索url":"/phsch.html?wd={wd}",
-       
-    "搜索数组":"img lazy eclazy br\"&&</a>",
+    "线路数组":"data-dropdown-value=&&</div>",
     
-    "搜索标题":"title=\"&&\"",
+    "线路标题":"<span>&&</small>[替换:</span><small>>>🌸共]+集🌸",
     
-    "搜索副标题":"hidden\">&&</span>",
+    "播放数组":"<div class=\"module-play-list&&</div>",
     
-    "搜索图片":"data-original=\"&&\"",
+    "播放标题":"<span>&&</span>",
     
-    "搜索链接":"href=\"&&\"",
-    
-    "线路数组":"data-from=&&</a>",
-    
-    "线路标题":">&&/em>[替换:<em>>>🌸共]+集🌸",
+    "播放列表":"<a&&</a>",
     
     "分类url":"https://www.panghuys.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html;;ka",
     
