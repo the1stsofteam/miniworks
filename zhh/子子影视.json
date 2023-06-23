@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
 "站名":"子子影视",
-"主页url":"https://www.ziziys.com/",
+"主页url":"https://ziziys.com/",
 "数组":"<div class=\"module-item-pic\">&&<div class=\"module-item\">",
 "副标题":"<div class=\"module-item-text\">&&</div>",
 "搜索url":"/vsearch/{wd}--{pg}.html",
@@ -13,7 +13,7 @@
 "搜索副标题":"title=*>&&</a>",
 "搜索后缀":"/vdetail/",
 "线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
+"线路标题":"<span>&&</small>[替换:</span><small>>>💞]+集",
 "播放数组":"<div class=\"sort-item\"&&</div>",
 "影片类型":"<div class=\"tag-link\">&&立即播放",
 "导演":"导演：&&</div>",
@@ -23,7 +23,7 @@
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
-"分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html",
+"分类url":"https://ziziys.com/list/{cateId}-{catePg}.html",
 "分类":"电影$1#国产剧$13#美剧$14#日韩剧$15#泰剧$16#国漫$20#日漫$21#欧美动漫$22",
 "筛选":{
 "1":[
