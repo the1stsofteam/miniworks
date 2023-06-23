@@ -1,33 +1,17 @@
 {
 "作者":"张弘",
 "站名":"莫扎兔",
-//https://www.mozhatu.com/
-//https://dazhutizi.net/
-"主页url":"https://tv1920.com/",
-"二次截取":"class=\"module-items&&<div class=\"fixedGroup",
-"图片":"data-original=\"&&\"",
-"标题":"title=\"&&\"",
-"链接":"href=\"&&\"",
-"副标题":"note\">&&</div>",
-"搜索模式":"1",
-"搜索二次截取":"class=\"module-items&&<div class=\"fixedGroup",
-"搜索图片":"data-original=\"&&\"",
-"搜索标题":"alt=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"搜索副标题":"note\">&&</div>",
+"搜索模式":"0",
+"搜索后缀":"/voddetail/",
 "影片类型":"module-info-tag\"&&立即播放",
 "导演":"导演：&&</div>",
 "主演":"主演：&&</div>",
 "简介":"<p>&&</p>",
 "线路数组":"data-dropdown-value=&&</div>",
-"线路标题":"<span>&&</small>[替换:</span><small>>>♡]+集♡",
-"播放数组":"module-play-list\">&&</div>",
-"播放列表":"<a&&/a>",
-"播放标题":"<span>&&</span>",
-"播放链接":"href=\"&&\"",
+"线路标题":"<span>&&</small>[替换:</span><small>>>💞]+集",
 "分类":"电影&电视剧&综艺&动漫&记录",
 "分类值":"1&2&3&4&5",
-"分类url":"https://tv1920.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/",
+"分类url":"https://dazhutizi.net/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}/;;ak",
 "筛选":{
 "1":[
 {
