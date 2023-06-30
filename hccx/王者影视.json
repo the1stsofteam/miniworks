@@ -16,7 +16,7 @@
     
     "影片类型":"module-info-tag\">&&立即播放",
     
-    "数组":"<a&&module-poster-item-info\"",
+    "数组":"<a&&</div></div></a>",
     
     "标题":"title=\"&&\"",
     
@@ -48,7 +48,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://wzyshi.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
+    "分类url":"https://wzyshi.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;k",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     
@@ -82,7 +82,6 @@
     {"n":"运动","v":"运动"},
     {"n":"农村","v":"农村"},
     {"n":"儿童","v":"儿童"},
-    {"n":"伦理","v":"伦理"},
     {"n":"网络电影","v":"网络电影"}
     ]
     },
